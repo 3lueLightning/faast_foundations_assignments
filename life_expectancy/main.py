@@ -1,5 +1,5 @@
 """
-
+Life expectancy entry point
 """
 import logging
 import argparse
